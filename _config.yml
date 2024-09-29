@@ -21,7 +21,7 @@ repository               : "LiuC2013/LiuC2013.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_blue.png"
   name             : "Cheng (Christopher) LIU"
   pronouns         :  # example: "she/her"  
   bio              : "Impossible is nothing"
